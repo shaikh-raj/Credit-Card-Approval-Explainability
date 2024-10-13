@@ -70,9 +70,9 @@ pip install -r requirements.txt
    ```bash
    cd Credit_Card_Approval_Explainability
    ```
-3. Run the Jupyter notebook:
+3. Run each py files
    ```bash
-   jupyter notebook FATML_assignment2_Group_26.ipynb
+   python file_name.py
    ```
 
 ## Results
